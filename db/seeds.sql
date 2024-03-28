@@ -14,9 +14,9 @@ VALUES('Publishing Oversight', 200000, 1),
       
 
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
-VALUES('Kit', 'Harrington', 1, 3),
+VALUES('Kit', 'Harrington', 1, 4),
     ('Billy', 'Harris', 2, NULL),
     ('Spencer', 'Price', 3, 2),
-    ('Angela', 'Montenegro', 4, 1),
-    ('Jack', 'Hodgins', 5, 5);
+    ('Angela', 'Montenegro', 4, 3),
+    ('Jack', 'Hodgins', 5, 1);
 

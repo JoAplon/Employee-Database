@@ -6,6 +6,10 @@
 
 This application takes employee information and organizes it into tables that you can add to or remove information from.
 
+Walkthrough Video: [click me!](https://drive.google.com/file/d/1O7nwRAru1aZu33kKZ4NdF33NCanFb52f/view)
+
+![screenshot of application](image.png)
+
 ## Table of Contents
 
 - [Description](#description)
@@ -18,7 +22,7 @@ This application takes employee information and organizes it into tables that yo
 
 ## Installation
 
-You need to install inquirer@8.2.4
+You need to install inquirer@8.2.4 and the pg package.
 
 ## Usage
 
@@ -33,7 +37,7 @@ N/A
 
 ## Tests
 
-pending
+N/A
 
 ## Questions
 
